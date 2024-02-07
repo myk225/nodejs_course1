@@ -1,5 +1,4 @@
-const  square=(a)=>a*a;
-
-
-console.log(square(10))
-console.log(square(9));
+const { myFunction1,myFunction2,FnClass } = require("./exportFns");
+let executer=new FnClass();
+console.log(executer.name);
+console.log(executer.info())

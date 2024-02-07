@@ -5,7 +5,7 @@ console.log(score);
 // basically means you can use this variable any where in your program
 
 
-function getScore(){
+ function getScore(){
     console.log(score);
 }
 // -------------------------------------------------------------------------
@@ -17,9 +17,10 @@ function testFnScope(){
     let myFnVar="i am a big text";
     console.log(myFnVar);
 }
+
 //uncomment below line and test
 
-console.log(myFnVar);
+// console.log(myFnVar);
 
 //ReferenceError: myFnVar is not definedss
 //----------------------------------------------------------------------------
