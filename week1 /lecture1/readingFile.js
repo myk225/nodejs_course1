@@ -9,10 +9,10 @@ if(err){
 }
 })
 
-fs.writeFile("./text.txt","i am trying to write something ",{flag:'a+'},(err)=>{
-    if(err){
-        console.log(err);
-    }else{
-        console.log("written in the file");
-    }
-})
+// fs.writeFile("./text.txt","i am trying to write something ",{flag:'a+'},(err)=>{
+//     if(err){
+//         console.log(err);
+//     }else{
+//         console.log("written in the file");
+//     }
+// })

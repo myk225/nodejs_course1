@@ -5,7 +5,8 @@ function cube(a){
     return a*a*a;
 }
 
-// with out call backs in example3.js file we can see how callbacks help in this case
+// with out call backs in example3.js file we
+// can see how callbacks help in this case
 function sumOfSquares(a,b){
     let finalVal=square(a)+square(b);
     return finalVal;

@@ -14,3 +14,8 @@ function multiply(a, b) {
 
 sum(a,b);
 multiply(a,b);
+
+setTimeout(()=>{
+  //logic to implement here
+},3000)
+  // delay 
