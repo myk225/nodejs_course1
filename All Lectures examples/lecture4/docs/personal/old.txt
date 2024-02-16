@@ -1,0 +1,1 @@
+i am readfile example   ==> Hello i am writefile method from fs module ==> Hello i am writefile method from fs module trying again
